@@ -101,3 +101,7 @@ These are detailed, polished wireframes that closely resemble the final product 
 i. Provides a realistic preview of the final product
 
 ii. Helps detect user experience issues before development
+
+## Type of Wireframe from Design Provided
+
+The type of design provided in the link is the High-Fidelity Wireframe since it is more detailed. It contains texts,images,and also realistic content and placeholders.
