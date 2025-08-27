@@ -105,3 +105,24 @@ ii. Helps detect user experience issues before development
 ## Type of Wireframe from Design Provided
 
 The type of design provided in the link is the High-Fidelity Wireframe since it is more detailed. It contains texts,images,and also realistic content and placeholders.
+
+## Wireframing Tools
+There are many tools available for creating wireframes, ranging from simple sketching apps to advanced design platforms. Below are some examples of wireframing tools:
+
+- **Balsamiq:** Known for its quick, sketch-like low-fidelity wireframes.
+- **Sketch:** A vector-based design tool commonly used for high-fidelity wireframes and UI design (Mac only).
+- **Adobe XD:** Provides both wireframing and prototyping features with interactive elements.
+- **MockFlow:** Easy-to-use tool for creating simple wireframes and flow diagrams.
+
+- **Wireframe.cc:** A minimalist, web-based tool for creating quick low-fidelity wireframes.
+
+- **Figma (Recommended Tool):** Combines ease of use, collaboration, and powerful features, making it ideal for beginners learning wireframing as well as professionals creating detailed, interactive prototypes.
+
+**Figma** is one of the most popular tools for wireframing and UI/UX design because it is:
+
+- **Web-based & Collaborative:** Multiple team members can work on the same wireframe in real time, similar to Google Docs.
+- **Cross-Platform:** Works on Windows, macOS, Linux, and directly in the browser—no installations required.
+- **Versatile:** Can be used for both low-fidelity and high-fidelity wireframes.
+- **Component System:** Reusable design components (like buttons, nav bars) save time and ensure consistency.
+- **Prototyping Features:** You can add clickable interactions to simulate user flow without exporting to another tool.
+- **Free Plan Available:** Offers generous features even on the free plan, making it accessible for beginners and teams.
