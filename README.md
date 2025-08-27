@@ -167,3 +167,42 @@ This helps avoid User Experience(UX) problems later in production.
 In agile teams, wireframes provide a **lightweight, iterative artifact** that can evolve with user feedback.
 
 They help define **user stories and acceptance criteria** by clearly showing expected functionality.
+
+## Real-World Scenario- Wireframing in Practice
+
+During the design of a **job matching platform**, the team created wireframes to visualize how job seekers would search, view, and apply for jobs.
+
+### Usability Issue Identified
+
+In the initial wireframe:
+
+The **“Apply Now” button** appeared only at the very end of the job description page.
+
+Test users reviewing the wireframe reported frustration, as they had to scroll through lengthy job details before finding the option to apply. This introduced friction in what should have been a quick, straightforward process.
+
+### How It Was Resolved
+
+The UI/UX designer adjusted the wireframe to include an **“Apply Now” button both at the top and bottom** of the job description page.
+
+A sticky navigation bar was also added so users could apply at any point while scrolling.
+
+These changes were tested again in the wireframe stage and received positive feedback from users, confirming that the flow was more intuitive.
+
+### Impact on the Final Product
+
+The final platform would see higher application completion rates, as users could act immediately without scrolling fatigue.
+
+Developers would receive clear direction from the wireframes, reducing redesign work later.
+
+Stakeholders noted that the streamlined process would improve the overall user experience and engagement on the platform.
+
+
+## The Role of Wireframing in Ensuring User-Friendly Design
+
+Wireframing is not just about sketches, it’s a strategic step in software development. By catching usability issues early, wireframes:
+
+- Save development time and costs.
+- Provide a clear reference for both designers and developers.
+- Ensure the final product is **user-friendly, efficient, and aligned with user needs**.
+
+In essence, **wireframing bridges the gap between an idea and a functional product**, ensuring that usability remains at the heart of design decisions.
